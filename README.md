@@ -1,2 +1,1 @@
-# Prepcourse-Henry
-Este es un repositorio de prueba de Henry
+este es una ´prueba para guardar en la computadora
